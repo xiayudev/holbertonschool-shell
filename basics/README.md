@@ -34,5 +34,8 @@ This script remove the directory `my_first_directory` that is in the `/tmp/` dir
 This script changes the current working directory to the previous one.
 
 ## 11-lists
-This script all files in the current directory, parent of the working directory and the `/boot/` directory.
+This script lists all the files in the current directory, parent of the working directory and the `/boot/` directory.
+
+## 12-file_type
+This script prints the type of the file named `iamafile`.
 
