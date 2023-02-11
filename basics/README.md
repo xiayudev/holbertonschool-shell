@@ -33,3 +33,6 @@ This script remove the directory `my_first_directory` that is in the `/tmp/` dir
 ## 10-back
 This script changes the current working directory to the previous one.
 
+## 11-lists
+This script all files in the current directory, parent of the working directory and the `/boot/` directory.
+
