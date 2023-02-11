@@ -15,3 +15,6 @@ This script lists current working directory contents in a long format.
 ## 4-listmorefiles
 This script lists current working directory contents including hidden files.
 
+## 5-listfilesdigitonly
+This script displays current working directory contents in a long format, with user and group IDs displayed numerically and hidden files.
+
