@@ -30,3 +30,6 @@ This script deletes the file betty in the `my_first_directory` directory.
 ## 9-firstdirdeletion
 This script remove the directory `my_first_directory` that is in the `/tmp/` directory.
 
+## 10-back
+This script changes the current working directory to the previous one.
+
