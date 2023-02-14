@@ -10,7 +10,11 @@ This script prints the effective username of the current user.
 This script prints all the groups the current user is part of.
 
 ## 3-new_owner
-This script changes the owner of the file hello to the user betty.
+This script changes the owner of the file `hello` to the user `betty`.
 
 ## 4-empty
 This script creates an empty file named `hello`.
+
+## 5-execute
+This script adds execute permissions to the owner of the file `hello`
+
