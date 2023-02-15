@@ -7,5 +7,8 @@ This script prints “Hello, World”, followed by a new line to the standard ou
 This script displays a confused smiley `"(Ôo)'`.
 
 ## 2-hellofile
-This script display the content of the `/etc/passwd` file.
+This script displays the content of the `/etc/passwd` file.
+
+## 3-twofiles
+This script displays the content of the `/etc/passwd` and `/etc/hosts`.
 
