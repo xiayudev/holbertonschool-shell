@@ -42,3 +42,6 @@ This script displays the 10 newest files in the current directory.
 ## 13-unique
 This script takes a list of words as input and prints only words that appear exactly once.
 
+## 14-findthatword
+This script displays lines containing the pattern “root” from the file `/etc/passwd`.
+
