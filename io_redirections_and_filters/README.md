@@ -15,3 +15,6 @@ This script displays the content of the `/etc/passwd` and `/etc/hosts`.
 ## 4-lastlines
 This script displays the last 10 lines of `/etc/passwd`.
 
+## 5-firstlines
+This script displays the first 10 lines of `/etc/passwd`.
+
