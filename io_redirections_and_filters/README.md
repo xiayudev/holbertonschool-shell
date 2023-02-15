@@ -69,3 +69,6 @@ This script reverse its input.
 ## 22-users_and_homes
 This script displays all users and their home directories, sorted by users.
 
+## 23-empty_casks
+This script finds all empty files and directories in the current directory and all sub-directories.
+
