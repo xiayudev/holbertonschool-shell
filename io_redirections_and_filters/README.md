@@ -75,3 +75,6 @@ This script finds all empty files and directories in the current directory and a
 ## 24-gifs
 This script lists all the files with a .gif extension in the current directory and all its sub-directories.
 
+## 25-acrostic
+This script decodes acrostics that use the first letter of each line.
+
