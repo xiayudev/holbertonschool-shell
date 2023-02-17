@@ -12,3 +12,6 @@ This script adds /action to the PATH.
 ## 3-paths
 This script counts the number of directories in the PATH.
 
+## 4-global_variables
+This script lists enviroment variables.
+
