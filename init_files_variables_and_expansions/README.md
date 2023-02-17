@@ -30,3 +30,6 @@ This script prints the result of the addition of 128 with the value stored in th
 ##9-divide_and_rule
 This script  prints the result of POWER divided by DIVIDE.
 
+##10-love_exponent_breath
+This script displays the result of BREATH to the power LOVE.
+
