@@ -42,3 +42,6 @@ This script prints all possible combinations of two letters, except oo.
 ##13-print_float
 This script prints a number with two decimal places.
 
+## 14-decimal_to_hexadecimal
+This script converts a number from base 10 to base 16.
+
